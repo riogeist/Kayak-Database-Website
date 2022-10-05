@@ -1,0 +1,13 @@
+/*
+Author: 		 Jasper Riogeist
+File: 			 alignRight.css
+Date:				 December 2, 2021
+Class:			 CS 445	
+Project: 		 BigDB
+Description: css file for formatting main.php.
+*/
+ 
+.alignRight
+{
+  text-align: right;
+}
